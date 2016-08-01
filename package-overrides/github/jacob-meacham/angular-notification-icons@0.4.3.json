@@ -1,0 +1,12 @@
+{
+  "main": "dist/angular-notification-icons.js",
+  "shim": {
+    "dist/angular-notification-icons": {
+      "deps": ["./angular-notification-icons.css!"]
+    }
+  },
+  "registry": "jspm",
+  "dependencies": {
+      "css": "*"
+  }
+}
