@@ -1,4 +1,3 @@
 {
-  "main": "src/chart.js",
-  "format": "cjs"
+  "main": "src/chart.js"
 }
