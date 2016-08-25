@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "format": "cjs",
+  "meta": {
+    "index.js": {
+      "deps": [
+        "./styles/properties.less!"
+      ]
+    }
+  }
+}
