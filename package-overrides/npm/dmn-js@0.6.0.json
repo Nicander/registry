@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "meta": {
+    "*.html": {
+      "loader": "text"
+    },
+    "dependencies": {
+      "text": "*"
+    }
+  }
+}
