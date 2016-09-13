@@ -1,5 +1,6 @@
   {
     "main": "index.js",
+    "format": "cjs",
     "shim": {
       "lib/Diagram": {
         "deps": [
