@@ -1,7 +1,7 @@
   {
     "main": "index.js",
     "meta": {
-      "lib/Diagram": {
+      "lib/Diagram.js": {
         "deps": [
           "../assets/diagram-js.css!"
         ]
