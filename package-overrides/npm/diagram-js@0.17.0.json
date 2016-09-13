@@ -1,7 +1,7 @@
   {
     "main": "index.js",
     "shim": {
-      "lib/Diagram.js": {
+      "lib/Diagram": {
         "deps": [
           "../assets/diagram-js.css!"
         ]
