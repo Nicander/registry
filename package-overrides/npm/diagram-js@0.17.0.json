@@ -7,8 +7,10 @@
         ]
       },
       "dependencies": {
-        "css": "*",
-        "snapsvg": "github:maxaction/Snap.svg@master"
+        "css": "*"
       }
+    },
+    dependencies: { 
+      "snapsvg": "https://github.com/maxaction/Snap.svg"
     }
   }
