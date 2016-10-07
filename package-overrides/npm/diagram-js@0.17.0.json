@@ -12,6 +12,5 @@
     },
     "dependencies": { 
       "snapsvg": "github:maxaction/Snap.svg"
-    },
-    "registry": "jspm"
+    }
   }
