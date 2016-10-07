@@ -18,6 +18,7 @@
       "lodash": "^3.0.1",
       "min-dom": "^0.2.0",
       "object-refs": "^0.1.1",
-      "snapsvg": "https://github.com/maxaction/Snap.svg"
-    }
+      "snapsvg": "github:maxaction/Snap.svg"
+    },
+    "registry": "jspm"
   }
