@@ -11,6 +11,6 @@
       }
     },
     "dependencies": { 
-      "snapsvg": "https://github.com/maxaction/Snap.svg"
+      "snapsvg": "https://github.com/maxaction/Snap.svg@master"
     }
   }
