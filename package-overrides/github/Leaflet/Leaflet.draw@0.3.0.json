@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "css": "*",
-    "leaflet": "*"
+    "leaflet": "0.7.7"
   }
 }
