@@ -1,0 +1,11 @@
+{
+  "main": "dist/leaflet.markercluster.layersupport.js",
+  "shim": {
+    "dist/leaflet.markercluster.layersupport": {
+      "deps": ["leaflet"]
+    }
+  },
+  "dependencies": {
+    "leaflet": "*"
+  }
+}
