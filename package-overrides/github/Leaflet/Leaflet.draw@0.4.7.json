@@ -1,6 +1,6 @@
 {
   "main": "dist/leaflet.draw.js",
-  "dependencies": {
+  "directories": {
     "lib": ""
   },
   "shim": {
