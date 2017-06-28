@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "css": "*",
-    "leaflet": "*"
+    "leaflet": "github:Leaflet/Leaflet@1.0.3"
   }
 }
