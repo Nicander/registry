@@ -1,0 +1,9 @@
+{
+  "main": "tslib.js",
+  "format": "cjs",
+  "meta": {
+    "tslib.js": {
+      "esModule": true
+    }
+  }
+}
