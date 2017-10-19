@@ -1,9 +1,9 @@
 {
   "main": "dist/ivh-treeview.js",
-  "shim": {
-    "dist/ivh-treeview": {
+  "meta": {
+    "dist/ivh-treeview.js": {
       "deps": [
-        "./dist/ivh-treeview.css!"
+        "ivh-treeview.css!"
       ]
     }
   },
