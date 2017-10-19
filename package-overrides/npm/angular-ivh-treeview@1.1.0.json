@@ -1,0 +1,13 @@
+{
+  "main": "dist/ivh-treeview.js",
+  "shim": {
+    "dist/ivh-treeview": {
+      "deps": [
+        "./dist/ivh-treeview.css!"
+      ]
+    }
+  },
+  "dependencies": {
+    "css": "*"
+  }
+}
