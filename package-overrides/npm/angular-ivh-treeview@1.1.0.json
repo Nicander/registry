@@ -3,11 +3,8 @@
   "meta": {
     "dist/ivh-treeview.js": {
       "deps": [
-        "ivh-treeview.css!"
+        "../src/styles/ivh-treeview.less!"
       ]
     }
-  },
-  "dependencies": {
-    "css": "*"
   }
 }
