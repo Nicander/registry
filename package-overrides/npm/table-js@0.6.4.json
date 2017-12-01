@@ -1,0 +1,14 @@
+{
+  "main": "index.js",
+  "meta": {
+    "*.html": {
+      "loader": "text"
+    },
+    "dependencies": {
+      "text": "*"
+    }
+  },
+  "map": {
+    "diagram-js": "npm:diagram-js@0.22.4"
+  }
+}
