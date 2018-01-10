@@ -1,0 +1,13 @@
+  {
+    "main": "js/bootstrap-colorpicker-module.js",
+    "meta": {
+      "js/bootstrap-colorpicker-module.js": {
+        "deps": [
+          "../css/colorpicker.css!"
+        ]
+      },
+      "dependencies": {
+        "css": "*"
+      }
+    }
+  }
