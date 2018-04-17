@@ -11,12 +11,12 @@
       "format": "json"
     }
   },
-   "shim": {
-        "index.js": {
-            "deps": ["./dest/select.css!"]
-        }
-    },
-  "dependencies": {
-      "css": "*"
+  "shim": {
+    "index.js": {
+      "deps": ["./dest/select.css!"]
     }
+  },
+  "dependencies": {
+    "css": "*"
+  }
 }
