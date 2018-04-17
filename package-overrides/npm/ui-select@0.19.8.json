@@ -7,16 +7,16 @@
         "process": "process"
       }
     },
-    "index.js":{
-      "deps": [
-          "./dest/select.css!"
-        ]
-    },
     "*.json": {
       "format": "json"
+    }
+  },
+   "shim": {
+        "index.js": {
+            deps: ["./dest/select.css!"]
+        }
     },
-    "dependencies": {
+  "dependencies": {
       "css": "*"
     }
-  }
 }
