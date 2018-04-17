@@ -6,7 +6,7 @@
       "globals": {
         "process": "process"
       }
-    }
+    },
     "index.js":{
       "deps": [
           "./dest/select.css!"
@@ -14,7 +14,7 @@
     },
     "*.json": {
       "format": "json"
-    }
+    },
     "dependencies": {
       "css": "*"
     }
