@@ -4,7 +4,7 @@
   "meta": {
     "index.js": {
       "deps": [
-        "./dest/select.css!"
+        "./dist/select.css!"
       ]
     }
   },
