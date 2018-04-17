@@ -13,7 +13,7 @@
   },
    "shim": {
         "index.js": {
-            deps: ["./dest/select.css!"]
+            "deps": ["./dest/select.css!"]
         }
     },
   "dependencies": {
