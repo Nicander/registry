@@ -1,19 +1,11 @@
 {
   "main": "index.js",
-  "format": "cjs",
+  "format": "global",
   "meta": {
-    "*": {
-      "globals": {
-        "process": "process"
-      }
-    },
-    "*.json": {
-      "format": "json"
-    }
-  },
-  "shim": {
-    "index": {
-      "deps": ["./dest/select.css!"]
+    "index.js": {
+      "deps": [
+        "./dest/select.css!"
+      ]
     }
   },
   "dependencies": {
