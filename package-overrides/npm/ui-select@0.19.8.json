@@ -12,7 +12,7 @@
     }
   },
   "shim": {
-    "index.js": {
+    "index": {
       "deps": ["./dest/select.css!"]
     }
   },
