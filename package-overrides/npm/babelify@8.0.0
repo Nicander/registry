@@ -1,0 +1,7 @@
+  {
+    "meta": {
+      "peerDependencies": {
+        "babel-core": "^7.0.0-beta"
+      }
+    }
+  }
