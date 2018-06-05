@@ -1,6 +1,6 @@
 {
   "peerDependencies": {
-    "babel-core": "^7.0.0-beta"
+    "babel-core": "^6.0.14"
   },
   ignore:['test']
 }
