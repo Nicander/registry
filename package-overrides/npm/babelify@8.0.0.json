@@ -2,5 +2,5 @@
   "peerDependencies": {
     "babel-core": "^6.0.14"
   },
-  ignore:['test']
+  ignore:["test"]
 }
