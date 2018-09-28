@@ -1,3 +1,4 @@
+{
     "meta": {
       "dist/mdPickers.js": {
         "format": "global",
@@ -12,3 +13,4 @@
         }
       }
     }
+}
