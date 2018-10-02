@@ -1,0 +1,15 @@
+{
+  "main": "angular-ui-tree.min",
+  "meta": {
+    "angular-ui-tree.min.js": {
+      "deps": [
+        "angular",
+        "./angular-ui-tree.min.css!"
+      ],
+      "format": "global",
+      "globals": {
+        "angular": "angular"
+      }
+    }
+  }
+}
