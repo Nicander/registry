@@ -4,14 +4,14 @@
     "*.json": {
       "format": "json"
     },
-    "dependencies": {
-      "css": "*"
-    },
     "dist/ag-grid-community.js": {
       "deps": [
         "./styles/ag-grid.css!",
         "./styles/ag-theme-material.css!"
       ]
+    },
+    "dependencies": {
+      "css": "*"
     }
   }
 }
