@@ -1,13 +1,17 @@
-
 {
   "main": "dist/ag-grid-community.js",
-  "shim": {
-    "dist/ag-grid-community": {
-      "deps": ["./styles/ag-grid.css!"]
-    }
-  },
-  "registry": "jspm",
-  "dependencies": {
+  "meta": {
+    "*.json": {
+      "format": "json"
+    },
+    "dependencies": {
       "css": "*"
+    },
+    "dist/ag-grid-community.js": {
+      "deps": [
+        "./styles/ag-grid.css!",
+        "./styles/ag-theme-material.css!"
+      ]
+    }
   }
 }
