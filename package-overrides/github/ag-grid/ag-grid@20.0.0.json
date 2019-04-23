@@ -1,15 +1,15 @@
-  {
+{
   "main": "dist/ag-grid-community.js",
   "registry": "jspm",
-  "meta": {
-    "dist/ag-grid-community.js": {
-      "deps": [
+  "shim": {
+    "dist/ag-grid-community": {
+      "deps": [        
         "./styles/ag-grid.css!",
         "./styles/ag-theme-material.css!"
       ]
-    },
+    }
   },
   "dependencies": {
-    "css": "*"
+      "css": "*"
   }
 }
