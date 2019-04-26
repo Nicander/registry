@@ -1,0 +1,16 @@
+{
+    "meta": {
+      "dist/mdPickers.js": {
+        "format": "global",
+        "deps": [
+          "./mdPickers.css!",
+          "angular",
+          "moment"
+        ],
+        "globals": {
+          "angular": "angular",
+          "moment": "moment"
+        }
+      }
+    }
+}
