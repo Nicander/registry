@@ -1,7 +1,7 @@
   {
     "map": {
       "matches-selector": {
-        "browser": "npm:component-matches-selector@0.1.6"
+        "browser": "npm:component-matches-selector@0.1.7"
       }
     }
   }
