@@ -2,7 +2,6 @@
   "main": "dist/leaflet.draw.js",
   "meta": {
     "dist/leaflet.draw": {
-      "deps": ["./leaflet.draw.css!"]
     }
   },
   "dependencies": {
